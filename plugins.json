@@ -1,1 +1,1 @@
-{"disabled": ["AMFReader", "FirmwareUpdateChecker", "FirmwareUpdater", "ImageReader", "UM3NetworkPrinting", "UFPReader", "UFPWriter"], "to_install": {}, "to_remove": []}
+{"to_install": {}, "disabled": [], "to_remove": []}
